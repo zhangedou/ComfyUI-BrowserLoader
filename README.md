@@ -12,9 +12,9 @@ EDOU 的 ComfyUI 浏览式加载节点包，包含 4 个节点：
 - **EDOU-Lora加载器**：仅模型 LoRA 加载器，三级目录过滤、文件夹卡片、2:3 完整封面、预览缩放；强度输入显示为 `Lora_strength`。
 ## 节点预览
 
-![图像浏览加载](./image%2input.png)
+![图像浏览加载](./image%20input.png)
 ![Checkpoint 模型加载器](./checkpoint.png)
-![Checkpoint 信息](./checkpoint%20i.png)
+![Checkpoint 示例](./checkpoint%20i.png)
 ![LoRA 加载器](./porme.png)
 
 ## 安装
